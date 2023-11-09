@@ -53,7 +53,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Autor ✒️
 **Franco Emanuel Benitez**  - [emanuel079](https://github.com/emanuel079)
-**Milton Storm** - [MiltonStorm] (https://github.com/MiltonStorm)
-**Francisco Heredia** [Herediafda](https://github.com/Herediafda)
+**Milton Storm** - [MiltonStorm](https://github.com/MiltonStorm)
+**Francisco Heredia** - [Herediafda](https://github.com/Herediafda)
 
 # efi_react_router

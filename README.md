@@ -73,6 +73,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-
+app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Tecnologías utilizadas
+
+*React
+*React Router
+*Redux
+
+## Autor ✒️
+**Franco Emanuel Benitez**  - [emanuel079](https://github.com/emanuel079)
+**Milton Storm** - [MiltonStorm]https://github.com/MiltonStorm
+**Francisco Heredia** [Herediafda]https://github.com/Herediafda
 
 # efi_react_router
